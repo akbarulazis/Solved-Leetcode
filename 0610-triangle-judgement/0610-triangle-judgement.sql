@@ -2,6 +2,5 @@
 
 
 select *, 
-    case when (x+y > z) and ( y+z > x) and ( z+x > y) then 'Yes'
-    else 'No' end triangle
+    if((x+y > z) and ( y+z > x) and ( z+x > y), 'Yes','No')triangle
     from triangle
