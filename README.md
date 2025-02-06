@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0046-permutations) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 ## String
@@ -66,4 +67,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
