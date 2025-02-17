@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Enumeration
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0002-add-two-numbers](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0012-integer-to-roman) |
+| [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
 |  |
 | ------- |
