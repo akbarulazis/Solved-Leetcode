@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0002-add-two-numbers](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0012-integer-to-roman) |
+| [2556-convert-the-temperature](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2556-convert-the-temperature) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
 |  |
