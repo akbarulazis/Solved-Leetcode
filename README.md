@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0118-pascals-triangle](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
