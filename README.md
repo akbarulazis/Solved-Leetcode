@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Hash Table
 |  |
@@ -118,9 +119,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
