@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [1656-count-good-triplets](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1656-count-good-triplets) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1656-count-good-triplets) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Greedy
