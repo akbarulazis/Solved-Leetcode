@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3811-reverse-degree-of-a-string](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
 | ------- |
