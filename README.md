@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0012-integer-to-roman) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2556-convert-the-temperature](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2556-convert-the-temperature) |
+| [2812-find-the-maximum-achievable-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
