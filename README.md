@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1500-count-largest-group](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1500-count-largest-group) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0002-add-two-numbers](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0012-integer-to-roman) |
+| [1500-count-largest-group](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2556-convert-the-temperature](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
