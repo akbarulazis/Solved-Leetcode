@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2556-convert-the-temperature](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Linked List
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
 |  |
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
