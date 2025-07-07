@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0118-pascals-triangle](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1656-count-good-triplets](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1656-count-good-triplets) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Stack
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Counting
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
