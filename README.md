@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1656-count-good-triplets) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Backtracking
