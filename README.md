@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1510-find-lucky-integer-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Backtracking
 |  |
 | ------- |
