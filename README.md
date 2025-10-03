@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2812-find-the-maximum-achievable-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1642-water-bottles](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3336-water-bottles-ii](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3336-water-bottles-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Matrix
