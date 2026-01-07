@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
