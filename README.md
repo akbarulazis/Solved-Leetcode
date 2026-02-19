@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1500-count-largest-group](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1755-defuse-the-bomb) |
+| [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
 | [2308-divide-array-into-equal-pairs](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
