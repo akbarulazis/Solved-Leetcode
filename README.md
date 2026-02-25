@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0009-palindrome-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0012-integer-to-roman) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1500-count-largest-group](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1500-count-largest-group) |
 | [1642-water-bottles](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1873-longest-nice-substring) |
