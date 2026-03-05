@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2328-minimize-result-by-adding-parentheses-to-expression](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2328-minimize-result-by-adding-parentheses-to-expression) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3396-valid-word) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3193-maximum-strong-pair-xor-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2856-count-complete-subarrays-in-an-array](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
