@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3396-valid-word](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3396-valid-word) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3811-reverse-degree-of-a-string](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Enumeration
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Binary Search
 |  |
 | ------- |
