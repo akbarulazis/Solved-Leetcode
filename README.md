@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0046-permutations](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0046-permutations) |
 | [0118-pascals-triangle](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0012-integer-to-roman](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -172,6 +176,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
