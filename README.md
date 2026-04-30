@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0169-majority-element) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0966-binary-subarrays-with-sum](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/akbarulazis/Solved-Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/akbarulazis/Solved-Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/akbarulazis/Solved-Leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/akbarulazis/Solved-Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
